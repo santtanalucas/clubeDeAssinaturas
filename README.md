@@ -3,6 +3,8 @@
 <!--- Exemplos de badges. Acesse https://shields.io para outras opções. Você pode querer incluir informações de dependencias, build, testes, licença, etc. --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/santtanalucas/clubeDeAssinaturas)
 ![GitHub contributors](https://img.shields.io/github/contributors/santtanalucas/clubeDeAssinaturas)
+![GitHub license](https://img.shields.io/github/license/santtanalucas/clubeDeAssinaturas)
+
 
 Clube de assinaturas é uma aplição que permite a assinatura de produtos que serão enviados mensalmente a casa de um cliente. Nesta aplição será possivel: 
 
@@ -56,11 +58,10 @@ Para usar Clube de Assinaturas, siga os seguintes passos (exemplos):
 
 As seguintes pessoas contribuiram para este projeto:
 
-* Lucas Santana (https://github.com/santtanalucas)
-* Marcos V. V. de Lima (https://github.com/)
+* [Lucas Santana](https://github.com/sattanalucas)
+* [Marcos de Lima](https://github.com)
 
 ## Licença de uso
 
 <!--- Se não tiver certeza de qual, verifique este site: https://choosealicense.com/--->
-Este projeto usa a seguinte licença: MIT LICENCE (https://opensource.org/licenses/MIT).
-
+Este projeto usa a seguinte licença: [MIT License](https://opensource.org/licenses/MIT).
