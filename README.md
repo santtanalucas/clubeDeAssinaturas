@@ -1,12 +1,11 @@
-# Nome_da_Aplicação
+# Clube de Assinaturas
 
 <!--- Exemplos de badges. Acesse https://shields.io para outras opções. Você pode querer incluir informações de dependencias, build, testes, licença, etc. --->
-![GitHub repo size](https://img.shields.io/github/repo-size/hsborges/progweb-template)
-![GitHub contributors](https://img.shields.io/github/contributors/hsborges/progweb-template)
+![GitHub repo size](https://img.shields.io/github/repo-size/santtanalucas/clubeDeAssinaturas)
+![GitHub contributors](https://img.shields.io/github/contributors/santtanalucas/clubeDeAssinaturas)
 
-Nome_da_Aplicação é um/uma ... que permite/tem por objetivo/visa/etc .... 
+Clube de assinaturas é uma aplição que permite ... 
 
-Coloque aqui linhas adicionais com informações sobre o que a aplicação faz. Sua introdução deve ser de no máximo 3 parágrafos, seja simples e objetivo para não sobrecarregar de detalhes desnecessários este espaço. Se necessário, crie novas seções abaixo.
 
 ## Pré-requisitos
 
@@ -34,9 +33,9 @@ Windows (opcional):
 <commandos>
 ```
 
-## Usando Nome_da_Aplicação
+## Usando Clube de AssinaturasNome_da_Aplicação
 
-Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
+Para usar Clube de Assinaturas, siga os seguintes passos (exemplos):
 
 * Abra o navegador e digite o seguinte endereço: `http://localhost/....`
 * Ao abrir a aplicação você poderá:
@@ -50,8 +49,8 @@ Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
 
 As seguintes pessoas contribuiram para este projeto:
 
-* [Meu nome](https://github.com/meu_nome)
-* *.... (liste todos os membros da equipe)*
+* Lucas Santana(https://github.com/santtanalucas)
+* Marcos V. V. de Lima (https://github.com/)
 
 ## Licença de uso
 
