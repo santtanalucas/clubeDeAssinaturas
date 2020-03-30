@@ -4,12 +4,12 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/santtanalucas/clubeDeAssinaturas)
 ![GitHub contributors](https://img.shields.io/github/contributors/santtanalucas/clubeDeAssinaturas)
 
-Clube de assinaturas é uma aplição que permite a assinatura de produtos que serão enviados mensalmente a casa de um cliente. Nesta aplição é possivel: 
+Clube de assinaturas é uma aplição que permite a assinatura de produtos que serão enviados mensalmente a casa de um cliente. Nesta aplição será possivel: 
 
 * Efetua cadastro de clientes.
-* Realiza a compra de um servico. 
+* Realiza a compra de um serviço. 
 * Escolher metodo de pagamento. 
-* Realizar cancelamento de servico.
+* Realizar cancelamento de serviço.
 * Acompanhar incrição de clientes. 
 
 
