@@ -42,7 +42,7 @@ Windows (opcional):
 <commandos>
 ```
 
-## Usando Clube de AssinaturasNome_da_Aplicação
+## Usando Clube de Assinaturas
 
 Para usar Clube de Assinaturas, siga os seguintes passos (exemplos):
 
